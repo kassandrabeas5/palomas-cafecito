@@ -58,7 +58,7 @@ body {
 /* === HERO === */
 .hero {
   background: linear-gradient(rgba(59,42,26,0.55), rgba(59,42,26,0.55)),
-              url('images/hero.jpg') center/cover no-repeat;
+              url('images/outside_view.png') center/cover no-repeat;
   height: 90vh;
   display: flex;
   align-items: center;
